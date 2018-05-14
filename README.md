@@ -1,0 +1,2 @@
+# HelloCompact
+Java
